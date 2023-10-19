@@ -1,0 +1,77 @@
+{
+    "data": [
+        {
+            "name": "Genevene Schindler",
+            "role": "Bones",
+            "image": "genevene.jpg",
+            "bio": "Genevene Schindler (any pronouns) is a nonbinary, autistic, disabled actor. She loves to knit and watch horror movies with her husband and cats. Genevene has worked on many acting projects including Sleepy Hollow, the Fallout Amazon TV show, and several new plays in the area."
+        },
+        {
+            "name": "Kim Wille",
+            "role": "Sasha, Makeup Design",
+            "image": "kim2.jpg",
+            "bio": "Much like Sasha, Kim likes being a silly lil guy in real life. On days Kim isn't rehearsing for Queen's Bones she's performing with Divine Comedy! Unfortunately, it doesn't pay to be a comedian, so here she is… being a 5ft snake puppet for hire."
+        },
+        {
+            "name": "Jaren Raymond",
+            "role": "Shepard",
+            "image": "jaren2.jpg",
+            "bio": "Born and raised in Oregon, Jaren grew up with a fascination for theater. He performed in middle school with a range of shows, from Christmas carol to wind in the willows. All four years of Highschool, he featured in the advanced Shakespeare performances. Taking a modest step back, Jaren focused on making sets and props during college. It was, however, only a matter of time until the acting bug would bite him once again. "
+        },
+        {
+            "name": "Boglárka ''Buttercup'' Izsó",
+            "role": "Svetka the Deathless Queen",
+            "image": "buttercup2.jpg",
+            "bio": "Boglárka (or Buttercup, as the peasants call her) came from a distant land in Europe, Hungary. Her dark magic includes passions of plotting fantastical stories and revenges, art, Hungarian castles and folklore, and pretending she is only human, attending her third year in the BFA Acting program at BYU. Her previous roles included 11 from 12 Angry Jurors, Helena from A Midsummer Night's Dream and many short movies. Her evil plan is to take over the world with her books and presence on the big screen. Consider yourselves warned."
+        },
+        {
+            "name": "Andrew Elijah Schindler",
+            "role": "Director, Playwright, Sound Design, Asst. Puppeteer",
+            "image": "andrewelijah.jpg",
+            "bio": "Andrew-Elijah Schindler wanted to write the same kind of story that he loved so much growing up. A fantasy with the power to help people through difficult and dark times. He loves his wife, his cats and the Lord of the Rings. His Biggest inspirations include his wife, his cats and the Lord of the Rings. A long time theater practitioner, Andrew-Elijah is excited to blend his love of fantasy with his love of theater in The Queen's Bones."
+        },
+        {
+            "name": "Selah DeGering",
+            "role": "Asst. Director, Stage Manager, Puppet Designer, Artistic Director, Web Designer",
+            "image": "selah.jpg",
+            "bio": "Selah is a playwright and a multi-faceted mother of three. This show has taken all of her skills, both practical and artistic, and she's so pleased to see such a long-term project (two years!) come to life. She also bakes."
+        },
+        {
+            "name": "Hunter Aro",
+            "role": "Combat Specialist",
+            "image": "hunter.jpg",
+            "bio": "Hunter is very cool and talented and nice."
+        },
+        {
+            "name": "Elisabeth Goulding",
+            "role": "Set Design, Prop Manager",
+            "image": "elisabeth.jpg",
+            "bio": "Elisabeth is very cool and talented and nice."
+        },
+        {
+            "name": "Ryver Mecham",
+            "role": "Costume Design",
+            "image": "ryver.jpg",
+            "bio": "Ryver (they/them) is very cool and talented and nice."
+        },
+        {
+            "name": "Walter DeGering",
+            "role": "Advertising",
+            "image": "walter.jpg",
+            "bio": "Please don't put me on the website. I'm begging."
+        }
+        ,
+        {
+            "name": "Gabi",
+            "role": "Lighting Design",
+            "image": "Gabi.jpeg",
+            "bio": "Gabi Pack graduated from Brigham Young University with a bachelors degree in theater and an emphasis in lighting design. She is thrilled to continue her work as a designer outside of BYU and was excited to design for a brand new show. Gabi has previously directed The Three Musketeers and has acted in many productions as well. She hopes you enjoy the show!"
+        },
+        {
+            "name": "Cooper Tribett",
+            "role": "Puppet Mechanics",
+            "image": "cooper.jpg",
+            "bio": "Cooper is currently a senior at BYU, majoring in Mechanical Engineering with a minor in Theatre Arts Studies. He uses these two different fields of study in scenic, prop, and puppetry design. He recently worked as lead scenic designer for BYU Mainstage's Wait Until Dark, scenic/props designer for the Winter 2023 production of BYU Young Company's A Midsummer Night's Dream, prop master for the 2021 BYU Mainstage production of Julius Caesar, and lead puppet designer/operator for the BYU Opera Zemire et Azor. Cooper loves finding new ways to combine engineering and storytelling and is always looking for a creative challenge (often finding too many at once)."
+        }
+    ]
+}
